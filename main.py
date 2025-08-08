@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-# Bot setup
+# Bot setup - Basic intents only
 intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix='!', intents=intents)
@@ -23,7 +23,7 @@ async def load_cogs():
     await bot.load_extension('cogs.quotes')
     await bot.load_extension('cogs.games')
     await bot.load_extension('cogs.leaderboard')
-    await bot.load_extension('cogs.music')
+    # await bot.load_extension('cogs.music')  # Temporarily disabled due to audioop issue
 
 async def main():
     await load_cogs()
