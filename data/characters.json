@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Goku",
+    "race": "Saiyan",
+    "power_level": 3000000,
+    "transformations": ["Super Saiyan", "Super Saiyan 2", "Super Saiyan 3", "Super Saiyan God", "Super Saiyan Blue", "Ultra Instinct"],
+    "image_url": "https://example.com/goku.jpg"
+  },
+  {
+    "name": "Vegeta",
+    "race": "Saiyan",
+    "power_level": 2800000,
+    "transformations": ["Super Saiyan", "Super Saiyan 2", "Majin Vegeta", "Super Saiyan God", "Super Saiyan Blue"],
+    "image_url": "https://example.com/vegeta.jpg"
+  },
+  {
+    "name": "Gohan",
+    "race": "Half-Saiyan",
+    "power_level": 2500000,
+    "transformations": ["Super Saiyan", "Super Saiyan 2", "Mystic Gohan"],
+    "image_url": "https://example.com/gohan.jpg"
+  },
+  {
+    "name": "Frieza",
+    "race": "Frost Demon",
+    "power_level": 2000000,
+    "transformations": ["Second Form", "Third Form", "Final Form", "Golden Frieza"],
+    "image_url": "https://example.com/frieza.jpg"
+  },
+  {
+    "name": "Cell",
+    "race": "Bio-Android",
+    "power_level": 1800000,
+    "transformations": ["Semi-Perfect Cell", "Perfect Cell", "Super Perfect Cell"],
+    "image_url": "https://example.com/cell.jpg"
+  },
+  {
+    "name": "Piccolo",
+    "race": "Namekian",
+    "power_level": 800000,
+    "transformations": ["Fused with Nail", "Fused with Kami"],
+    "image_url": "https://example.com/piccolo.jpg"
+  },
+  {
+    "name": "Krillin",
+    "race": "Human",
+    "power_level": 75000,
+    "transformations": [],
+    "image_url": "https://example.com/krillin.jpg"
+  },
+  {
+    "name": "Trunks",
+    "race": "Half-Saiyan",
+    "power_level": 1500000,
+    "transformations": ["Super Saiyan", "Super Saiyan 2"],
+    "image_url": "https://example.com/trunks.jpg"
+  }
+]
