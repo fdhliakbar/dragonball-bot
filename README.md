@@ -1,6 +1,7 @@
-# 🐉 Dragon Ball Discord Bot
+# Dragon Ball Discord Bot
 
 Bot Discord bertema Dragon Ball dengan berbagai fitur menarik untuk fans anime legendaris.
+<img src="./dragonball-banner.jpg"/>
 
 ## Features
 
@@ -70,7 +71,7 @@ Bot Discord bertema Dragon Ball dengan berbagai fitur menarik untuk fans anime l
 !powerlevel           - "It's over 9000!" sound
 ```
 
-## 📊 Point System
+## Point System
 
 ### Battle Points
 - **Menang**: +10 poin
@@ -87,7 +88,3 @@ Bot Discord bertema Dragon Ball dengan berbagai fitur menarik untuk fans anime l
 - Speak in Voice
 - Embed Links
 - Attach Files
-
----
-
-**Made with ❤️ for Dragon Ball fans worldwide! 🐉**
